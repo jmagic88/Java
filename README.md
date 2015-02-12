@@ -1,0 +1,1 @@
+Practicing the use of Github. I first created a Github account back in September but stopped using it after awhile. I'm now re-learning how to use Github so that I may posted the projects that I'm working on and contribute to other projects.
